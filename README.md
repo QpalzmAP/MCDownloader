@@ -9,3 +9,4 @@ flowchart LR
   B -- BMCLAPI --> C{download}
   C --> D([完成])
 ```
+https://github.com/QpalzmAP/MCDownloader/releases可下载
