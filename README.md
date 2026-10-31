@@ -5,7 +5,7 @@ mc下崽器，就自己做的，不要抱太大希望
 **点个star把**
 ```mermaid
 flowchart LR
-  A([用户选版本]) --> B{选模组加载器}
-  B -- BMCLAPI --> C[download]
+  A([用户选版本]) --> B(选模组加载器)
+  B -- BMCLAPI --> C{download}
   C --> D([完成])
 ```
